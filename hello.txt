@@ -1,4 +1,7 @@
 Hello world
 seconnd
 third
+<<<<<<< HEAD
 fourth
+=======
+>>>>>>> 5ab3dfee274f0b69e8cc1abbf529b173e42effce
